@@ -1,0 +1,11 @@
+c:\dev\repos\CodeKataASCI\CodeKataASCI\obj\Debug\netcoreapp2.0\CodeKataASCI.csprojResolveAssemblyReference.cache
+c:\dev\repos\CodeKataASCI\CodeKataASCI\obj\Debug\netcoreapp2.0\CodeKataASCI.csproj.CoreCompileInputs.cache
+c:\dev\repos\CodeKataASCI\CodeKataASCI\obj\Debug\netcoreapp2.0\CodeKataASCI.AssemblyInfoInputs.cache
+c:\dev\repos\CodeKataASCI\CodeKataASCI\obj\Debug\netcoreapp2.0\CodeKataASCI.AssemblyInfo.cs
+c:\dev\repos\CodeKataASCI\CodeKataASCI\bin\Debug\netcoreapp2.0\CodeKataASCI.deps.json
+c:\dev\repos\CodeKataASCI\CodeKataASCI\bin\Debug\netcoreapp2.0\CodeKataASCI.runtimeconfig.json
+c:\dev\repos\CodeKataASCI\CodeKataASCI\bin\Debug\netcoreapp2.0\CodeKataASCI.runtimeconfig.dev.json
+c:\dev\repos\CodeKataASCI\CodeKataASCI\bin\Debug\netcoreapp2.0\CodeKataASCI.dll
+c:\dev\repos\CodeKataASCI\CodeKataASCI\bin\Debug\netcoreapp2.0\CodeKataASCI.pdb
+c:\dev\repos\CodeKataASCI\CodeKataASCI\obj\Debug\netcoreapp2.0\CodeKataASCI.dll
+c:\dev\repos\CodeKataASCI\CodeKataASCI\obj\Debug\netcoreapp2.0\CodeKataASCI.pdb
