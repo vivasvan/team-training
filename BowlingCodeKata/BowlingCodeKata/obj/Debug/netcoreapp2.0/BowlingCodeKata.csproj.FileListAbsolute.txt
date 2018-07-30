@@ -1,0 +1,11 @@
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\obj\Debug\netcoreapp2.0\BowlingCodeKata.csprojResolveAssemblyReference.cache
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\obj\Debug\netcoreapp2.0\BowlingCodeKata.csproj.CoreCompileInputs.cache
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\obj\Debug\netcoreapp2.0\BowlingCodeKata.AssemblyInfoInputs.cache
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\obj\Debug\netcoreapp2.0\BowlingCodeKata.AssemblyInfo.cs
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\bin\Debug\netcoreapp2.0\BowlingCodeKata.deps.json
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\bin\Debug\netcoreapp2.0\BowlingCodeKata.runtimeconfig.json
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\bin\Debug\netcoreapp2.0\BowlingCodeKata.runtimeconfig.dev.json
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\bin\Debug\netcoreapp2.0\BowlingCodeKata.dll
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\bin\Debug\netcoreapp2.0\BowlingCodeKata.pdb
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\obj\Debug\netcoreapp2.0\BowlingCodeKata.dll
+C:\dev\repos\BowlingCodeKata\BowlingCodeKata\obj\Debug\netcoreapp2.0\BowlingCodeKata.pdb

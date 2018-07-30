@@ -1,0 +1,16 @@
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.deps.json
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.runtimeconfig.json
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.runtimeconfig.dev.json
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.dll
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.pdb
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.csprojResolveAssemblyReference.cache
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfo.cs
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.dll
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.pdb
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\BowlingCodeKata.dll
+C:\dev\repos\BowlingCodeKata\XUnitTestProject1\bin\Debug\netcoreapp2.0\BowlingCodeKata.pdb
